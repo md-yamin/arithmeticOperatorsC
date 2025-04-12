@@ -1,1 +1,1 @@
- // scanf("%d", &a);
+broh
